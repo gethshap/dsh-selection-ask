@@ -1,0 +1,4 @@
+# Add the package's browser half to the Web profile roster.
+- insert:
+    - id: ui-selection-ask
+      name: '@gethshap/dsh-selection-ask'
