@@ -2,6 +2,8 @@
 
 [简体中文](README.md) | [English](README_EN.md)
 
+![DSH 点读机项目封面](docs/assets/dsh-selection-ask-cover-zh.png)
+
 为 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) Web UI 增加“选中文字后结合当前对话上下文追问”的独立插件。
 
 特性：

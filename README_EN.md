@@ -2,6 +2,8 @@
 
 [简体中文](README.md) | [English](README_EN.md)
 
+![DSH Selection Ask project cover](docs/assets/dsh-selection-ask-cover-en.png)
+
 A standalone [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) Web UI plugin for asking context-aware questions about selected text.
 
 Features:
